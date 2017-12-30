@@ -28,4 +28,3 @@ class App extends Component {
 	}
 }
 ReactDOM.render(<App />, document.querySelector('.container'));
-//AIzaSyCoy__H8Xkxej2dEFuXjgV36D-0czkn0AU YT API key
